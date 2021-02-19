@@ -1,1 +1,1 @@
-web: gunicorn app:iamcoderisk
+web: gunicorn app:app
