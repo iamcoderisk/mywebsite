@@ -110,6 +110,9 @@ td {
 
 #company-name {
     height: 2px;
+    color:#980D9E !important;
+    font-style: oblique;
+    font-weight: 400;
     text-decoration: underline;
 }
 

@@ -9,7 +9,7 @@ def index():
     return render_template('index.html',currentDate = now.strftime("%Y-%m-%d %H:%M:%S"))
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
 
 
 
